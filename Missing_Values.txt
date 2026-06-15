@@ -1,0 +1,4 @@
+TV              10
+Radio            4
+Social_Media     6
+Sales            6
