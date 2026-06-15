@@ -15,17 +15,20 @@ Radio and Social Media showed little to no measurable impact on sales in this da
 TV Advertising
 Coefficient = 3.5626
 p-value = 0.000
+
 **Business interpretation:**
 For every additional ₦1 spent on TV advertising, sales increase by approximately ₦3.56, assuming all other factors remain constant.
 This result is highly significant and reliable.
 Radio Advertising
 Coefficient = -0.0040
 p-value = 0.685
+
 **Business interpretation:**
 Radio advertising showed no meaningful impact on sales. The observed effect is so small that it could easily be due to random variation.
 Social Media Advertising
 Coefficient = 0.0050
 p-value = 0.842
+
 **Business interpretation:**
 Social media advertising also showed no statistically significant impact on sales in this analysis.
 
